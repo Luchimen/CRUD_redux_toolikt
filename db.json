@@ -1,0 +1,59 @@
+{
+  "products": [
+    {
+      "name": "Luis Miguel editado",
+      "price": "123",
+      "id": "drdktio0pcg1gi3qt8a6"
+    },
+    {
+      "name": "probando",
+      "price": "123",
+      "id": "6ccmlm9oao81gi6grvgh"
+    },
+    {
+      "name": "Morty",
+      "price": "1234",
+      "id": "uudqd4r2e681gi6gudaj"
+    },
+    {
+      "name": "Luis Miguel",
+      "price": "123",
+      "id": "i3bv0ip60e1gi6j176t"
+    },
+    {
+      "name": "Pelusa2",
+      "price": "123",
+      "id": "dpsptmd7sno1gi6j19vu"
+    },
+    {
+      "name": "Pelusa2",
+      "price": "123",
+      "id": "l4fnejbo7k1gi6j1hui"
+    },
+    {
+      "name": "probando",
+      "price": "123",
+      "id": "21vgvkdfs2o1gi6j1lf6"
+    },
+    {
+      "name": "probando",
+      "price": "123",
+      "id": "qrknfff360g1gi6j1nuu"
+    },
+    {
+      "name": "123",
+      "price": "123",
+      "id": "4aiut85gkv81gi6j1q7a"
+    },
+    {
+      "name": "Luis Miguel",
+      "price": "123",
+      "id": "dn43e6ft5dg1gi6j21k7"
+    },
+    {
+      "name": "tercera paginacion",
+      "price": "120",
+      "id": "qucp22pft481gigtkekb"
+    }
+  ]
+}
